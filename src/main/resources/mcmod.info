@@ -1,0 +1,16 @@
+[
+{
+  "modid": "treepop",
+  "name": "Tree Pop",
+  "description": "definitely not a meme",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["quaternary"],
+  "credits": "Your mum",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
